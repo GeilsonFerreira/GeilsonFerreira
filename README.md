@@ -1,63 +1,34 @@
-# 👋 Olá, eu sou o Geilson Ferreira
-
-Sou **estudante de Ciência da Computação** e **desenvolvedor Python em formação**, com foco em **automação de processos e análise de dados**.
-
-Tenho background de mais de **15 anos no jornalismo**, atuando com **dados de audiência, conteúdo e tomada de decisão baseada em informação**, o que influencia diretamente minha forma de pensar soluções técnicas.
-
----
-
-## 🚀 Áreas de Atuação
-- Automação de processos com Python
-- Análise e tratamento de dados
-- Automação aplicada a mídia e conteúdo
-- Organização e processamento de arquivos
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-- Python
-- pandas
-- CSV / manipulação de arquivos
-- MoviePy
-- Pillow
-- Git e GitHub
-- SQL (básico)
-- HTML
-- CSS
-
----
-
-## 📂 Projetos em Destaque
-
-### 🎬 Automação de Mídias 9:16 para 16:9 (Padrão TV)
-Automação em Python para conversão de **imagens e vídeos verticais (9:16)** para o formato **horizontal (16:9)**, com centralização automática e fundo ajustado, seguindo padrão utilizado em televisão.
-
-➡️ Aplicação prática em ambientes de TV e produção de conteúdo profissional.
-
----
-
-### 📊 Automação de Dados de Audiência de TV
-Projeto voltado à **leitura, tratamento e análise automatizada de dados de audiência**, permitindo comparação entre emissoras por faixa de horário e redução de processos manuais.
-
-➡️ Uso de dados para apoio à tomada de decisão editorial.
-
----
-
-### 💬 Automação de Download de Arquivos do WhatsApp *(em desenvolvimento)*
-Automação para **download e organização de arquivos** recebidos em grupos de WhatsApp, com foco em produtividade, controle e gestão de conteúdo.
-
-➡️ Projeto em andamento.
-
----
-
-## 📚 Formação
-- Bacharelado em **Ciência da Computação** *(em andamento)*
-- Bacharelado em Comunicação Social - Jornalismo 
-- Licenciatura em **História**
-- Pós-graduação em **História do Brasil**
-
----
-
-## 📫 Contato
-- 🌐 Site: https://geilsonferreira.com.br  
-- 💼 LinkedIn: https://linkedin.com/in/geilson-ferreira
+👋 Olá, eu sou Geilson Ferreira
+Sou desenvolvedor Python em formação, graduando em Ciência da Computação, com foco em automação e análise de dados aplicadas à mídia, jornalismo e produção de conteúdo.
+Atuo há mais de 15 anos no jornalismo, especialmente em televisão, e hoje trabalho na transição para tecnologia, unindo código + dados + contexto editorial para resolver problemas reais.
+🚀 Principais projetos
+🎥 Automação de conversão de mídia (9:16 → 16:9)
+Automação em Python que:
+ajusta fotos e vídeos verticais (9:16)
+aplica fundo e centralização automática
+gera saída final em 16:9, padrão de TV
+📌 Aplicação prática em fluxos de produção audiovisual.
+📥 Automação de download de arquivos do WhatsApp (em andamento)
+Projeto para:
+monitorar grupos do WhatsApp
+baixar automaticamente arquivos recebidos
+organizar conteúdo para análise e arquivamento
+📊 Automação e análise de dados de audiência de TV
+Projeto voltado para:
+leitura e tratamento de dados de audiência
+organização por faixas horárias e conteúdos
+apoio à análise editorial e estratégica
+🛠️ Tecnologias e ferramentas
+Python
+Automação de processos
+Manipulação de arquivos (imagens, vídeos, CSV)
+Análise de dados (em evolução)
+Git & GitHub
+🎓 Formação
+🎓 Ciência da Computação (em andamento)
+🎓 Licenciatura em História
+🎓 Pós-graduação em História do Brasil
+A formação em História e o jornalismo fortalecem minha capacidade analítica, contextualização de dados e visão crítica sobre informação.
+🌐 Onde me encontrar
+GitHub: https://github.com/GeilsonFerreira
+YouTube: https://youtube.com/@porgeilsonferreira
